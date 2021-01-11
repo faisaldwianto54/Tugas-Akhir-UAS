@@ -104,27 +104,27 @@ while True:
 
 Tambah data
 
-![output-praktikum-5](pictUAS/12.PNG)
+![output-praktikum-5](12.PNG)
 
 
 Ubah data
 
-![output-praktikum-5](pictUAS/13.PNG)
+![output-praktikum-5](13.PNG)
 
 
 Lihat data
 
-![output-praktikum-5](pictUAS/14.PNG)
+![output-praktikum-5](14.PNG)
 
 
 Cari data
 
-![output-praktikum-5](pictUAS/15.PNG)
+![output-praktikum-5](15.PNG)
 
 
 Hapus data
 
-![output-praktikum-5](pictUAS/16.PNG)
+![output-praktikum-5](16.PNG)
 
 
 
