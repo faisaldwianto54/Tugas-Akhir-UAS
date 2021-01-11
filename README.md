@@ -1,9 +1,6 @@
 # Tugas-Akhir-UAS
 Tugas dibuat untuk memenuhi nilai UAS
 
-# Tugas-Akhir-UAS
-Tugas dibuat untuk memenuhi nilai UAS
-
 # UAS Bahasa Pemrograman
 
 **Struktur Package & Module**
