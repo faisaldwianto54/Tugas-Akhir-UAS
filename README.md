@@ -5,7 +5,7 @@ Tugas dibuat untuk memenuhi nilai UAS
 
 **Struktur Package & Module**
 
-![package](pictUAS/11.png)
+![package](11.png)
 
 **Penjelasan:**
 
